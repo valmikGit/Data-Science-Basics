@@ -1,0 +1,9 @@
+virtualenv
+Capsule 1
+Capsule 2
+Capsule 3
+*.docx
+!Problem Statement & Data Description.docx
+*.tmp
+Banking Submission
+Banking Submission.zip
