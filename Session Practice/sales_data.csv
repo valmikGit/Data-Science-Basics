@@ -1,0 +1,301 @@
+Order_ID,Product_Name,Unit_Price,Quantity,Total_Price,Payment_Method,Customer_Satisfaction,Delivery_Time,Region
+101,T-shirt,15.99,2,31.98,Credit Card,5,3 days,North
+102,Jeans,29.99,1,29.99,Cash,4,2 days,East
+103,Shoes,39.99,3,119.97,PayPal,3,4 days,West
+104,Hat,12.99,2,25.98,Debit Card,4,2 days,South
+105,Socks,4.99,4,19.96,PayPal,4,3 days,North
+106,Sweater,49.99,1,49.99,PayPal,5,2 days,East
+107,Skirt,34.99,2,69.98,Credit Card,3,4 days,West
+108,Shorts,24.99,3,74.97,Cash,4,3 days,South
+109,Dress,59.99,1,59.99,Credit Card,5,2 days,North
+110,Pants,39.99,2,79.98,Debit Card,3,5 days,East
+111,Sandals,19.99,,39.98,PayPal,4,2 days,West
+112,Sweatshirt,29.99,1,29.99,Cash,,3 days,South
+113,Hoodie,44.99,3,134.97,PayPal,5,2 days,North
+114,Coat,79.99,1,79.99,PayPal,3,,East
+115,Gloves,9.99,2,19.98,Credit Card,4,4 days,West
+116,Belt,14.99,,29.98,Cash,3,3 days,South
+117,Scarf,19.99,1,19.99,Debit Card,5,2 days,North
+118,Sunglasses,29.99,2,59.98,PayPal,4,5 days,East
+119,Umbrella,24.99,1,24.99,Credit Card,3,2 days,West
+120,Watches,69.99,3,209.97,Cash,5,3 days,South
+121,Earrings,14.99,2,29.98,Debit Card,4,4 days,North
+122,Necklace,39.99,1,39.99,PayPal,3,2 days,East
+123,Ring,19.99,,39.98,PayPal,4,5 days,West
+124,Bracelet,29.99,2,59.98,Credit Card,5,3 days,South
+125,Handbag,49.99,1,49.99,Cash,4,2 days,North
+126,Backpack,39.99,3,119.97,PayPal,3,4 days,East
+127,Wallet,24.99,2,49.98,Credit Card,4,3 days,West
+128,Purse,34.99,1,34.99,Cash,5,2 days,South
+129,Watch,79.99,3,239.97,Debit Card,3,5 days,North
+130,Bracelet,14.99,2,29.98,PayPal,4,2 days,East
+131,Necklace,39.99,1,39.99,Cash,3,5 days,West
+132,Ring,19.99,,39.98,Credit Card,4,3 days,South
+133,Scarf,9.99,1,9.99,PayPal,5,2 days,North
+134,Hat,24.99,2,49.98,PayPal,4,4 days,East
+135,Gloves,14.99,1,14.99,Credit Card,3,2 days,West
+136,Belt,19.99,3,59.97,Cash,4,3 days,South
+137,Sunglasses,29.99,2,59.98,Debit Card,5,2 days,North
+138,Umbrella,24.99,1,24.99,PayPal,4,5 days,East
+139,Watches,69.99,3,209.97,Credit Card,3,2 days,West
+140,Earrings,14.99,2,29.98,Cash,4,5 days,South
+141,Necklace,39.99,1,39.99,Debit Card,5,2 days,
+142,Ring,19.99,,39.98,PayPal,3,3 days,East
+143,Bracelet,29.99,2,59.98,Credit Card,4,2 days,West
+144,Handbag,49.99,1,49.99,Cash,5,5 days,South
+145,Backpack,39.99,3,119.97,PayPal,3,2 days,North
+146,Wallet,24.99,2,49.98,Debit Card,4,4 days,East
+147,Purse,34.99,1,34.99,Credit Card,3,2 days,West
+148,Watch,79.99,3,239.97,Cash,4,3 days,South
+149,Bracelet,14.99,2,29.98,PayPal,5,2 days,North
+150,Necklace,39.99,1,39.99,Credit Card,4,5 days,East
+151,Sneakers,59.99,1,59.99,Credit Card,5,2 days,North
+152,Watch,79.99,3,239.97,Debit Card,4,3 days,East
+153,Hoodie,44.99,2,89.98,Cash,3,4 days,West
+154,Handbag,49.99,1,49.99,PayPal,4,2 days,South
+155,Jeans,29.99,2,59.98,Debit Card,5,3 days,North
+156,Skirt,34.99,,69.98,PayPal,3,2 days,East
+157,Coat,79.99,1,79.99,Cash,4,4 days,West
+158,Shorts,24.99,2,49.98,Credit Card,5,2 days,South
+159,Dress,59.99,1,59.99,PayPal,3,3 days,North
+160,Sunglasses,29.99,2,59.98,Cash,4,2 days,East
+161,Hat,12.99,1,12.99,Debit Card,5,4 days,West
+162,Scarf,9.99,3,29.97,PayPal,3,2 days,South
+163,T-shirt,15.99,2,31.98,Credit Card,4,3 days,
+164,Gloves,14.99,1,14.99,Cash,5,2 days,East
+165,Backpack,39.99,2,79.98,PayPal,3,5 days,West
+166,Necklace,39.99,1,39.99,South,4,2 days,North
+167,Wallet,24.99,3,74.97,Debit Card,5,4 days,North
+168,Purse,34.99,1,34.99,Credit Card,3,2 days,West
+169,Ring,19.99,2,39.98,PayPal,4,5 days,South
+170,Bracelet,29.99,,59.98,Cash,5,2 days,North
+171,Earrings,14.99,1,14.99,Debit Card,4,4 days,North
+172,Jeans,29.99,2,59.98,Credit Card,3,2 days,West
+173,Sandals,19.99,3,59.97,PayPal,4,3 days,South
+174,Coat,79.99,1,79.99,Cash,5,2 days,North
+175,Hoodie,44.99,2,89.98,Debit Card,3,4 days,East
+176,Shoes,39.99,1,39.99,Credit Card,4,2 days,West
+177,Skirt,34.99,,69.98,PayPal,5,5 days,South
+178,Shorts,24.99,2,49.98,Cash,3,2 days,North
+179,Dress,59.99,1,59.99,Debit Card,4,4 days,East
+180,Sunglasses,29.99,2,59.98,Credit Card,5,2 days,West
+181,Handbag,49.99,1,49.99,PayPal,3,3 days,South
+182,Watch,79.99,3,239.97,Cash,4,2 days,North
+183,Hoodie,44.99,2,89.98,Debit Card,5,4 days,East
+184,Scarf,9.99,3,29.97,Credit Card,3,2 days,West
+185,Bracelet,29.99,,59.98,PayPal,4,5 days,South
+186,Necklace,39.99,1,39.99,Cash,5,2 days,North
+187,Wallet,24.99,3,74.97,Debit Card,4,4 days,East
+188,Purse,34.99,1,34.99,Credit Card,3,2 days,West
+189,Ring,19.99,2,39.98,PayPal,4,5 days,South
+190,Bracelet,29.99,,59.98,Cash,5,2 days,North
+191,Earrings,14.99,1,14.99,Debit Card,4,4 days,East
+192,Jeans,29.99,2,59.98,Credit Card,3,2 days,West
+193,Sandals,19.99,3,59.97,PayPal,4,3 days,South
+194,Coat,79.99,1,79.99,Cash,5,2 days,North
+195,Hoodie,44.99,2,89.98,Debit Card,3,4 days,East
+196,Shoes,39.99,1,39.99,Credit Card,4,2 days,West
+197,Skirt,34.99,,69.98,PayPal,5,5 days,South
+198,Shorts,24.99,2,49.98,Cash,3,2 days,North
+199,Dress,59.99,1,59.99,Debit Card,4,4 days,East
+200,Sunglasses,29.99,2,59.98,Credit Card,5,2 days,West
+201,Watch,79.99,1,79.99,PayPal,4,3 days,North
+202,Hoodie,44.99,2,89.98,Cash,3,4 days,East
+203,Handbag,49.99,1,49.99,Credit Card,4,2 days,West
+204,Jeans,29.99,2,59.98,Debit Card,5,3 days,South
+205,Skirt,34.99,,69.98,PayPal,3,2 days,North
+206,Coat,79.99,1,79.99,Cash,4,4 days,North
+207,Shorts,24.99,2,49.98,Credit Card,5,2 days,West
+208,Dress,59.99,1,59.99,PayPal,3,3 days,South
+209,Sunglasses,29.99,2,59.98,Cash,4,2 days,North
+210,Hat,12.99,1,12.99,Debit Card,5,4 days,North
+211,Scarf,9.99,3,29.97,PayPal,3,2 days,West
+212,T-shirt,15.99,2,31.98,Credit Card,4,3 days,South
+213,Gloves,14.99,1,14.99,Cash,5,2 days,North
+214,Backpack,39.99,2,79.98,PayPal,3,5 days,East
+215,Necklace,39.99,1,39.99,South,4,2 days,West
+216,Wallet,24.99,3,74.97,Debit Card,5,4 days,North
+217,Purse,34.99,1,34.99,Credit Card,3,2 days,East
+218,Ring,19.99,2,39.98,PayPal,4,5 days,West
+219,Bracelet,29.99,,59.98,Cash,5,2 days,South
+220,Earrings,14.99,1,14.99,Debit Card,4,4 days,North
+221,Jeans,29.99,2,59.98,Credit Card,3,2 days,East
+222,Sandals,19.99,3,59.97,PayPal,4,3 days,West
+223,Coat,79.99,1,79.99,Cash,5,2 days,South
+224,Hoodie,44.99,2,89.98,Debit Card,3,4 days,
+225,Shoes,39.99,1,39.99,Credit Card,4,2 days,East
+226,Skirt,34.99,,69.98,PayPal,5,5 days,West
+227,Shorts,24.99,2,49.98,Cash,3,2 days,South
+228,Dress,59.99,1,59.99,Debit Card,4,4 days,North
+229,Sunglasses,29.99,2,59.98,Credit Card,5,2 days,East
+230,Handbag,49.99,1,49.99,PayPal,3,3 days,West
+231,Watch,79.99,3,239.97,Cash,4,2 days,South
+232,Hoodie,44.99,2,89.98,Debit Card,5,4 days,North
+233,Scarf,9.99,3,29.97,Credit Card,3,2 days,East
+234,Bracelet,29.99,,59.98,PayPal,4,5 days,West
+235,Necklace,39.99,1,39.99,Cash,5,2 days,South
+236,Wallet,24.99,3,74.97,Debit Card,4,4 days,North
+237,Purse,34.99,1,34.99,Credit Card,3,2 days,East
+238,Ring,19.99,2,39.98,PayPal,4,5 days,West
+239,Bracelet,29.99,,59.98,Cash,5,2 days,South
+240,Earrings,14.99,1,14.99,Debit Card,4,4 days,North
+241,Jeans,29.99,2,59.98,Credit Card,3,2 days,East
+242,Sandals,19.99,3,59.97,PayPal,4,3 days,West
+243,Coat,79.99,1,79.99,Cash,5,2 days,South
+244,Hoodie,44.99,2,89.98,Debit Card,3,4 days,North
+245,Shoes,39.99,1,39.99,Credit Card,4,2 days,East
+246,Skirt,34.99,,69.98,PayPal,5,5 days,West
+247,Shorts,24.99,2,49.98,Cash,3,2 days,South
+248,Dress,59.99,1,59.99,Debit Card,4,4 days,North
+249,Sunglasses,29.99,2,59.98,Credit Card,5,2 days,East
+250,Handbag,49.99,1,49.99,PayPal,3,3 days,West
+251,Watch,79.99,1,79.99,Cash,4,3 days,North
+252,Hoodie,44.99,2,89.98,Debit Card,3,4 days,East
+253,Handbag,49.99,1,49.99,PayPal,4,2 days,West
+254,Jeans,29.99,2,59.98,Credit Card,5,3 days,South
+255,Skirt,34.99,,69.98,PayPal,3,2 days,North
+256,Coat,79.99,1,79.99,Cash,4,4 days,East
+257,Shorts,24.99,2,49.98,Credit Card,5,2 days,West
+258,Dress,59.99,1,59.99,PayPal,3,3 days,South
+259,Sunglasses,29.99,2,59.98,Cash,4,2 days,North
+260,Hat,12.99,1,12.99,Debit Card,5,4 days,East
+261,Scarf,9.99,3,29.97,PayPal,3,2 days,West
+262,T-shirt,15.99,2,31.98,Credit Card,4,3 days,South
+263,Gloves,14.99,1,14.99,Cash,5,2 days,North
+264,Backpack,39.99,2,79.98,PayPal,3,5 days,East
+265,Necklace,39.99,1,39.99,South,4,2 days,West
+266,Wallet,24.99,3,74.97,Debit Card,5,4 days,North
+267,Purse,34.99,1,34.99,Credit Card,3,2 days,East
+268,Ring,19.99,2,39.98,PayPal,4,5 days,West
+269,Bracelet,29.99,,59.98,Cash,5,2 days,South
+270,Earrings,14.99,1,14.99,Debit Card,4,4 days,
+271,Jeans,29.99,2,59.98,Credit Card,3,2 days,East
+272,Sandals,19.99,3,59.97,PayPal,4,3 days,West
+273,Coat,79.99,1,79.99,Cash,5,2 days,South
+274,Hoodie,44.99,2,89.98,Debit Card,3,4 days,
+275,Shoes,39.99,1,39.99,Credit Card,4,2 days,East
+276,Skirt,34.99,,69.98,PayPal,5,5 days,West
+277,Shorts,24.99,2,49.98,Cash,3,2 days,South
+278,Dress,59.99,1,59.99,Debit Card,4,4 days,North
+279,Sunglasses,29.99,2,59.98,Credit Card,5,2 days,East
+280,Handbag,49.99,1,49.99,PayPal,3,3 days,West
+281,Watch,79.99,3,239.97,Cash,4,2 days,South
+282,Hoodie,44.99,2,89.98,Debit Card,5,4 days,North
+283,Scarf,9.99,3,29.97,Credit Card,3,2 days,East
+284,Bracelet,29.99,,59.98,PayPal,4,5 days,West
+285,Necklace,39.99,1,39.99,Cash,5,2 days,South
+286,Wallet,24.99,3,74.97,Debit Card,4,4 days,North
+287,Purse,34.99,1,34.99,Credit Card,3,2 days,East
+288,Ring,19.99,2,39.98,PayPal,4,5 days,West
+289,Bracelet,29.99,,59.98,Cash,5,2 days,South
+290,Earrings,14.99,1,14.99,Debit Card,4,4 days,North
+291,Jeans,29.99,2,59.98,Credit Card,3,2 days,East
+292,Sandals,19.99,3,59.97,PayPal,4,3 days,West
+293,Coat,79.99,1,79.99,Cash,5,2 days,South
+294,Hoodie,44.99,2,89.98,Debit Card,3,4 days,
+295,Shoes,39.99,1,39.99,Credit Card,4,2 days,East
+296,Skirt,34.99,,69.98,PayPal,5,5 days,West
+297,Shorts,24.99,2,49.98,Cash,3,2 days,South
+298,Dress,59.99,1,59.99,Debit Card,4,4 days,North
+299,Sunglasses,29.99,2,59.98,Credit Card,5,2 days,North
+300,Handbag,49.99,1,49.99,PayPal,3,3 days,West
+301,Watch,79.99,1,79.99,Credit Card,4,3 days,
+302,Hoodie,44.99,2,89.98,PayPal,3,4 days,East
+303,Handbag,49.99,1,49.99,Debit Card,4,2 days,West
+304,Jeans,29.99,2,59.98,Cash,5,3 days,South
+305,Skirt,34.99,,69.98,PayPal,3,2 days,North
+306,Coat,79.99,1,79.99,Debit Card,4,4 days,North
+307,Shorts,24.99,2,49.98,Credit Card,5,2 days,West
+308,Dress,59.99,1,59.99,Cash,3,3 days,South
+309,Sunglasses,29.99,2,59.98,PayPal,4,2 days,North
+310,Hat,12.99,1,12.99,Debit Card,5,4 days,East
+311,Scarf,9.99,3,29.97,Credit Card,3,2 days,West
+312,T-shirt,15.99,2,31.98,Cash,4,3 days,South
+313,Gloves,14.99,1,14.99,PayPal,5,2 days,North
+314,Backpack,39.99,2,79.98,Debit Card,3,5 days,North
+315,Necklace,39.99,1,39.99,Credit Card,4,2 days,West
+316,Wallet,24.99,3,74.97,PayPal,5,4 days,North
+317,Purse,34.99,1,34.99,Cash,3,2 days,East
+318,Ring,19.99,2,39.98,Debit Card,4,5 days,North
+319,Bracelet,29.99,,59.98,Credit Card,5,2 days,South
+320,Earrings,14.99,1,14.99,PayPal,4,4 days,North
+321,Jeans,29.99,2,59.98,Cash,3,2 days,East
+322,Sandals,19.99,3,59.97,Debit Card,4,3 days,West
+323,Coat,79.99,1,79.99,Credit Card,5,2 days,South
+324,Hoodie,44.99,2,89.98,PayPal,3,4 days,North
+325,Shoes,39.99,1,39.99,Debit Card,4,2 days,East
+326,Skirt,34.99,,69.98,Credit Card,5,5 days,West
+327,Shorts,24.99,2,49.98,PayPal,3,2 days,South
+328,Dress,59.99,1,59.99,North,4,4 days,North
+329,Sunglasses,29.99,2,59.98,Cash,5,2 days,East
+330,Handbag,49.99,1,49.99,PayPal,3,3 days,West
+331,Watch,79.99,3,239.97,Credit Card,4,2 days,South
+332,Hoodie,44.99,2,89.98,Debit Card,5,4 days,North
+333,Scarf,9.99,3,29.97,Credit Card,3,2 days,East
+334,Bracelet,29.99,,59.98,PayPal,4,5 days,West
+335,Necklace,39.99,1,39.99,Cash,5,2 days,South
+336,Wallet,24.99,3,74.97,Debit Card,4,4 days,North
+337,Purse,34.99,1,34.99,Credit Card,3,2 days,East
+338,Ring,19.99,2,39.98,PayPal,4,5 days,West
+339,Bracelet,29.99,,59.98,Cash,5,2 days,South
+340,Earrings,14.99,1,14.99,Debit Card,4,4 days,North
+341,Jeans,29.99,2,59.98,Credit Card,3,2 days,East
+342,Sandals,19.99,3,59.97,PayPal,4,3 days,West
+343,Coat,79.99,1,79.99,Cash,5,2 days,South
+344,Hoodie,44.99,2,89.98,Debit Card,3,4 days,North
+345,Shoes,39.99,1,39.99,Credit Card,4,2 days,East
+346,Skirt,34.99,,69.98,PayPal,5,5 days,West
+347,Shorts,24.99,2,49.98,Cash,3,2 days,South
+348,Dress,59.99,1,59.99,Debit Card,4,4 days,North
+349,Sunglasses,29.99,2,59.98,Credit Card,5,2 days,East
+350,Handbag,49.99,1,49.99,PayPal,3,3 days,West
+351,Watch,79.99,1,79.99,Debit Card,4,3 days,North
+352,Hoodie,44.99,2,89.98,PayPal,3,4 days,East
+353,Handbag,49.99,1,49.99,Cash,4,2 days,West
+354,Jeans,29.99,2,59.98,Credit Card,5,3 days,South
+355,Skirt,34.99,,69.98,PayPal,3,2 days,North
+356,Coat,79.99,1,79.99,Debit Card,4,4 days,East
+357,Shorts,24.99,2,49.98,Credit Card,5,2 days,West
+358,Dress,59.99,1,59.99,Cash,3,3 days,South
+359,Sunglasses,29.99,2,59.98,PayPal,4,2 days,North
+360,Hat,12.99,1,12.99,Debit Card,5,4 days,East
+361,Scarf,9.99,3,29.97,Credit Card,3,2 days,West
+362,T-shirt,15.99,2,31.98,Cash,4,3 days,South
+363,Gloves,14.99,1,14.99,PayPal,5,2 days,North
+364,Backpack,39.99,2,79.98,Debit Card,3,5 days,East
+365,Necklace,39.99,1,39.99,Credit Card,4,2 days,West
+366,Wallet,24.99,3,74.97,PayPal,5,4 days,North
+367,Purse,34.99,1,34.99,Cash,3,2 days,East
+368,Ring,19.99,2,39.98,Debit Card,4,5 days,West
+369,Bracelet,29.99,,59.98,Credit Card,5,2 days,South
+370,Earrings,14.99,1,14.99,PayPal,4,4 days,North
+371,Jeans,29.99,2,59.98,Cash,3,2 days,East
+372,Sandals,19.99,3,59.97,Debit Card,4,3 days,West
+373,Coat,79.99,1,79.99,Credit Card,5,2 days,South
+374,Hoodie,44.99,2,89.98,PayPal,3,4 days,North
+375,Shoes,39.99,1,39.99,Debit Card,4,2 days,East
+376,Skirt,34.99,,69.98,Credit Card,5,5 days,West
+377,Shorts,24.99,2,49.98,PayPal,3,2 days,South
+378,Dress,59.99,1,59.99,Credit Card,4,4 days,North
+379,Sunglasses,29.99,2,59.98,Debit Card,5,2 days,East
+380,Handbag,49.99,1,49.99,PayPal,3,3 days,West
+381,Watch,79.99,3,239.97,Cash,4,2 days,South
+382,Hoodie,44.99,2,89.98,Debit Card,5,4 days,North
+383,Scarf,9.99,3,29.97,Credit Card,3,2 days,East
+384,Bracelet,29.99,,59.98,PayPal,4,5 days,West
+385,Necklace,39.99,1,39.99,Cash,5,2 days,South
+386,Wallet,24.99,3,74.97,Debit Card,4,4 days,North
+387,Purse,34.99,1,34.99,Credit Card,3,2 days,East
+388,Ring,19.99,2,39.98,PayPal,4,5 days,West
+389,Bracelet,29.99,,59.98,Cash,5,2 days,South
+390,Earrings,14.99,1,14.99,Debit Card,4,4 days,North
+391,Jeans,29.99,2,59.98,Credit Card,3,2 days,East
+392,Sandals,19.99,3,59.97,PayPal,4,3 days,West
+393,Coat,79.99,1,79.99,Cash,5,2 days,South
+394,Hoodie,44.99,2,89.98,Debit Card,3,4 days,North
+395,Shoes,39.99,1,39.99,Credit Card,4,2 days,East
+396,Skirt,34.99,,69.98,PayPal,5,5 days,West
+397,Shorts,24.99,2,49.98,Cash,3,2 days,South
+398,Dress,59.99,1,59.99,Debit Card,4,4 days,North
+399,Sunglasses,29.99,2,59.98,Credit Card,5,2 days,East
+400,Handbag,49.99,1,49.99,PayPal,3,3 days,West
